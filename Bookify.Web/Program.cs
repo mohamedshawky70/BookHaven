@@ -16,6 +16,8 @@ using System.Reflection;
 using UoN.ExpressiveAnnotations.NetCore.DependencyInjection;
 using WhatsAppCloudApi.Extensions;
 //15/12/2024 The beginning the course
+//23/1/2025 The End
+//38 Day
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.Configure<SecurityStampValidatorOptions>(option => option.ValidationInterval = TimeSpan.Zero);
