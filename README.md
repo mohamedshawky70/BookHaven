@@ -1,5 +1,8 @@
-# BookHaven MVC Project 
+# BookHaven MVC Project
 
+# Project Mind Map
+
+# ![Banner](Project Mind Map.png)
 ## Project Overview
 
 **Objective:** This is a Library Management System (LMS) web application built with .NET Core, designed to streamline the process of managing books, users, and borrowing records in a library. The system allows librarians and administrators to track books, users, issue/return books, and manage user roles.
@@ -31,6 +34,8 @@
 -**Book Categories**: Organize books by genre/category.
 
 -**Responsive UI**: A simple, clean, and responsive user interface.
+
+-**Export Reports**:Export Excel sheet and Pdf for books , rentals and delay in rentals.
 
 
 ## Development Focus
