@@ -21,6 +21,10 @@
 
 -**background tasks**: operations that run asynchronously or in the background, typically without direct interaction with a user.
 
+-**Export Reports**:Export Excel sheet and Pdf for books , rentals and delay in rentals.
+
+-**Save Images**:Save images on cloud (Cloudinary).
+
 -**User Authentication**: Admin and user login functionality.
 
 -**Book Management**: Add, update, delete, and search books in the library.
@@ -35,7 +39,7 @@
 
 -**Responsive UI**: A simple, clean, and responsive user interface.
 
--**Export Reports**:Export Excel sheet and Pdf for books , rentals and delay in rentals.
+
 
 
 ## Development Focus
