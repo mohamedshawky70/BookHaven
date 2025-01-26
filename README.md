@@ -65,12 +65,12 @@
 - **Description:** Implement user and role management using Microsoft ASP.NET Identity. This includes functionalities for user registration, login, role assignment, and permissions management.
 
 ### 5. Admin Capabilities
-- **Create, Update, Delete Products:** Manage the books inventory with full CRUD operations.
+- **Create, Update, Delete Books:** Manage the books inventory with full CRUD operations.
 - **Manage Categories:** Add, edit, or remove categories.
 - **Manage Books:** Add, edit, or remove books.
 - **Manage Subscriber** Add ,renew Subscriber's subscribtion,delete Subscriber's subscribtion,check if subscription paid penality and check if return book that he rantal.
 - **User Management:** Create users, assign roles, lock or unlock users, and delete users as needed.
-- **Role Assignment:** Define and assign roles such as Admin, Editor, and Customer, with specific permissions.
+- **Role Assignment:** Define and assign roles such as Admin, Achieve, and Reception, with specific permissions.
 
 ### 6. Auth Section
 - **Login:** Secure user authentication.
