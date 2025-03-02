@@ -114,7 +114,11 @@
 - **Description:** Deploy the project on Monester, ensuring the deployment process is smooth and the application is optimized for the platform.
 - **Deployment Focus:** Ensure the application is configured for performance, security, and scalability in a cloud environment.
 
-### 13. [Data Seeding](#data-seeding)
+  ### 13. Publishing locally on IIS (Internet Information Services)
+- **Isolated Environment:** Running your website locally on IIS allows you to test and debug in an environment
+    that is isolated from your production server. This helps in identifying and fixing issues without affecting live users.
+
+### 14. [Data Seeding](#data-seeding)
 - **Description:** Seed initial data for the admin role and users to ensure the system starts with essential data, improving ease of testing and initial use.
 - **Seeded Data:**
   - **Admin Role:** Pre-configured admin role with full access.
