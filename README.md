@@ -152,4 +152,7 @@
 ---
 
 ## Links
-- **[Project Repository](https://github.com/mohamedshawky70/BookHaven)**
+- **Video Demo:** https://www.linkedin.com/feed/update/urn:li:activity:7289225228549812224/
+- **Live Demo:** https://bookhaven.runasp.net
+- **Email:** MoAdmin@BookHaven.Com 
+- **Password:** P@$$0Rd123
