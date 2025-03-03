@@ -3,6 +3,14 @@
 # Project Mind Map
 ![Image](https://github.com/user-attachments/assets/06bbdbdd-522a-4dc3-9943-8526af52bf4a)
 
+## Glimpse of the working solution
+![Image](https://github.com/user-attachments/assets/2d3a2595-1fd1-4489-a536-7f4a48434907)
+![Image](https://github.com/user-attachments/assets/7c0cfba3-aac0-429c-b008-832a05131624)
+![Image](https://github.com/user-attachments/assets/8a25ee7d-d454-4030-9c33-deb6aee8f03e)
+![Image](https://github.com/user-attachments/assets/d00db187-177d-427a-939c-086615418653)
+![Image](https://github.com/user-attachments/assets/b5125a8f-7ecd-4291-90ae-b24b4527e56c)
+
+
 ## Project Overview
 
 **Objective:** This is a Library Management System (LMS) web application built with .NET Core, designed to streamline the process of managing books, users, and borrowing records in a library. The system allows librarians and administrators to track books, users, issue/return books, and manage user roles.
