@@ -2,7 +2,7 @@
 
 # Project Mind Map
 ![Image](https://github.com/user-attachments/assets/06bbdbdd-522a-4dc3-9943-8526af52bf4a)
-
+![Image](https://github.com/user-attachments/assets/906edc1a-5417-4aca-8c61-991755696c28)
 ## Glimpse of the working solution
 ![Image](https://github.com/user-attachments/assets/2d3a2595-1fd1-4489-a536-7f4a48434907)
 ![Image](https://github.com/user-attachments/assets/7c0cfba3-aac0-429c-b008-832a05131624)
